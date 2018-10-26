@@ -1,4 +1,5 @@
 #!/bin/bash
+#https://github.com/TarikvdBerg/MacOSSetupScript
 set -e
 
 ask() {
